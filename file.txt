@@ -8,3 +8,5 @@ i ma chnaging the 3away
 
 change explamation marks in the above file
 
+check the lines of code  with rebase.
+
