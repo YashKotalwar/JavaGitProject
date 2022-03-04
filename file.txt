@@ -1,3 +1,4 @@
 Hello my git
 My Persistent MNC
 My third line in gile.txt
+Bug1 fixes
