@@ -10,5 +10,8 @@ change explamation marks in the above file
 
 check the lines of code  with rebase.
 
-change : For Bug789 for half done work 
+
+Hi I am Yash Kotalwar
+Pushing the file.txt to github repo
+
 
