@@ -1,1 +1,3 @@
 Hi demo txt file.
+This is new line.
+Added new line sof code.
